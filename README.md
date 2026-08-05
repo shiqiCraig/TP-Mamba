@@ -3,7 +3,7 @@
 If you find this project helpful for your research, please kindly consider citing our paper and giving this repo ⭐:
 
 ```bibtex
-@ARTICLE{11611255,
+@ARTICLE{TP-Mamba_2026,
   author={Chen, Junliang and Zhang, Xinpeng and Shi, Fan and Jiang, Cheng and Cheng, Xu and Chen, Shengyong},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
   title={TP-Mamba: Topological Semantic Convergence and Prototype Recalibration for HSI Classification}, 
